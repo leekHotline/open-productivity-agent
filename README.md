@@ -22,7 +22,7 @@
         开源 + 本地可部署（强调隐私/可控）  
         支持“工具链自由组合”（比单一聊天更灵活）  
         针对自由职业者/学生/研究者（超级个体）
-
+```mermaid
 flowchart TD
     A[项目启动] --> B[MVP冲刺<br>3天核心]
     
@@ -41,14 +41,14 @@ flowchart TD
     
     D1 & D2 & D3 --> F[生态扩展<br>社区与API]
     
-    F --> G[目标达成<br>轻量级AI工作台]
+    F --> G[目标达成<br>轻量级Agent工具助手]
     
     style A fill:#e1f5fe
     style B fill:#f3e5f5
     style D fill:#e8f5e8
     style F fill:#fff3e0
     style G fill:#ffebee,stroke:#c62828
-
+```
 
 
 ## 参考文档: https://shanghaiopen.feishu.cn/wiki/BBClwNHPeiUfntkhNGucvoftnCf
